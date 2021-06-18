@@ -5,7 +5,7 @@
 |---------|-------------------------------------------|
 |CPU      |M900 XCM2010GP40 (Allwinner F1C100S)       |
 |RAM      |32MB                                       |
-|Screen   |3.0" 320x240                               |
+|Screen   |2.8" 320x240                               |
 |Slot     |SDCard                                     |
 |Gamepad  |DPad, 4 Buttons, Start, Select, L, R, Power|
 |USB      |Charger Only                               |
