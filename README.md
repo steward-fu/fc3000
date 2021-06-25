@@ -34,5 +34,5 @@ Specification
 |Dimension|140mm x 68mm x 18mm                        |
 |Weight   |110g                                       |
   
-### Home: https://steward-fu.github.io/website/index.htm
 ### Forum(司徒开源): https://whycan.com/forumlist.php
+### Home: https://steward-fu.github.io/website/index.htm
