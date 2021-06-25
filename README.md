@@ -2,12 +2,12 @@
 ![Alt text](imgs/main.jpg)
 
 ## How to flash v1/v2 stock system
--  Download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
--  Extract fc3000_v1_v2_flash.img
+1. Download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
+2. Extract fc3000_v1_v2_flash.img
 -  Write into MicroSD (recommend: SanDisk 8GB)
 -  Remove FC3000 cartridge (label: 130 FC FAMES)
 -  Insert your MicroSD into FC3000
--  Put battery back and then power of
+-  Put battery back and then power on
 -  ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/4.jpg)
 -  ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/6.jpg)
 -  ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/8.jpg)
