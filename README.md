@@ -3,7 +3,7 @@
 
 ## How to flash V1 or V2 stock system
 1. download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
-2. extract fc3000_v1_v2_flash.img and write into MicroSD (SanDisk 8GB)
+2. extract fc3000_v1_v2_flash.img and then write into MicroSD (SanDisk 8GB)
 3. remove FC3000 cartridge (130 FC FAMES)
 4. insert your MicroSD into FC3000
 5. put battery back and then power on
