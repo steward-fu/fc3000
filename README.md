@@ -15,10 +15,10 @@
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/8.jpg)
 9. remove your MicroSD and put stock MicroSD back  
   
-v1 stock system (must use original v1 MicroSD)  
+v1 stock system (user must use original v1 MicroSD to play game)  
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/10.jpg)
   
-v2 stock system (must use original v2 MicroSD)  
+v2 stock system (user must use original v2 MicroSD to play game)  
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/11.jpg)
   
 Specification
