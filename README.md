@@ -15,10 +15,10 @@
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/8.jpg)
 9. remove your MicroSD and put stock MicroSD back  
   
-v1 stock system  
+v1 stock system (must use original v1 MicroSD)  
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/10.jpg)
   
-v2 stock system  
+v2 stock system (must use original v2 MicroSD)  
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/11.jpg)
   
 Specification
