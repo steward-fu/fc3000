@@ -1,7 +1,7 @@
 # FC3000
 ![Alt text](imgs/main.jpg)
 
-## How to flash v1 or v2 stock system
+## How to flash V1 or V2 stock system
 1. Download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
 2. Extract fc3000_v1_v2_flash.img and write into MicroSD (SanDisk 8GB)
 3. Remove FC3000 cartridge (130 FC FAMES)
@@ -15,13 +15,13 @@
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/8.jpg)
 9. Remove your MicroSD and put stock MicroSD back  
   
-v1 stock system  
+V1 stock system  
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/10.jpg)
   
-v2 stock system  
+V2 stock system  
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/11.jpg)
   
-  
+Specification
 |Component|Description                                |
 |---------|-------------------------------------------|
 |CPU      |M900 XCM2010GP40 (Allwinner F1C100S)       |
@@ -33,6 +33,6 @@ v2 stock system
 |Battery  |3.7V 1100mA, AAA x 3                       |
 |Dimension|140mm x 68mm x 18mm                        |
 |Weight   |110g                                       |
-
-### https://steward-fu.github.io/website/index.htm
+  
+### Home: https://steward-fu.github.io/website/index.htm
 ### Forum(司徒开源): https://whycan.com/forumlist.php
