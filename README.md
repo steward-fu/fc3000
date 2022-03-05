@@ -54,6 +54,14 @@ $ tar xvf mininit.tar.gz
 $ cd mininit
 $ make
 ```
+### Build uboot
+```console
+$ cd
+$ wget https://github.com/steward-fu/fc3000/releases/download/source/uboot.tar.gz
+$ tar xvf uboot.tar.gz
+$ cd uboot
+$ ./run.sh /dev/sdX fc3000
+```
   
 ## How to flash v1/v2 stock system (TFT screen only, not IPS)
 1. download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
