@@ -37,7 +37,7 @@ $ sudo mv miyoo /opt/
 $ export PATH=$PATH:/opt/miyoo/bin
 ```
   
-### Build Kernel
+### Build kernel
 ```console
 $ cd
 $ wget https://github.com/steward-fu/fc3000/releases/download/source/kernel.tar.gz
