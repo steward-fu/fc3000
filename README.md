@@ -18,7 +18,7 @@ Since there are many variants (with different screen panel), all of steps writte
   
 ## How to build Linux OS for FC3000
 ### prepare environment
--  Debian 9 (x64)
+-  Install Debian 9 (x64)
   
 ### prepare microsd
 ```console
