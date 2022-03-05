@@ -66,7 +66,7 @@ $ ./run.sh /dev/sdX fc3000
 -  download buildroot-2018.02.9 from https://buildroot.org
 -  use config_buildroot-2018.02.9(in miyoo repo) and then make it
 -  toolchain location: /opt/miyoo
--  rootfs location: output/images/rootfs.tar
+-  rootfs location: output/images/rootfs.squashfs
   
 ## How to flash v1/v2 stock system (TFT screen only, not IPS)
 1. download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
