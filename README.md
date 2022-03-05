@@ -21,16 +21,17 @@ Since there are many variants (with different screen panel), all of steps writte
 -  Debian 9 (x64)
   
 ### prepare microsd
--  cd
--  wget https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_tft_od_jutleys_no_roms.img.7z
--  7za x fc3000_tft_od_jutleys_no_roms.img.7z
--  sudo dd if=fc3000_tft_od_jutleys_no_roms.img of=/dev/sdX bs=1M
+-  $ cd
+-  $ wget https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_tft_od_jutleys_no_roms.img.7z
+-  $ 7za x fc3000_tft_od_jutleys_no_roms.img.7z
+-  $ sudo dd if=fc3000_tft_od_jutleys_no_roms.img of=/dev/sdX bs=1M
   
 ### configure toolchain
--  wget https://github.com/steward-fu/miyoo/releases/download/v1.0/toolchain.7z
--  7za x toolchain.7z
--  sudo mv miyoo /opt/
--  export PATH=$PATH:/opt/miyoo/bin
+-  $ cd
+-  $ wget https://github.com/steward-fu/miyoo/releases/download/v1.0/toolchain.7z
+-  $ 7za x toolchain.7z
+-  $ sudo mv miyoo /opt/
+-  $ export PATH=$PATH:/opt/miyoo/bin
   
 ## How to flash v1/v2 stock system (TFT screen only, not IPS)
 1. download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
