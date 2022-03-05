@@ -46,6 +46,14 @@ $ cd kernel
 $ ARCH=arm CROSS_COMPILE=arm-linux- make suniv_defconfig
 $ ./run.sh fc3000
 ```
+### Build mininit (load rootfs in squashfs format)
+```console
+$ cd
+$ wget https://github.com/steward-fu/fc3000/releases/download/source/mininit.tar.gz
+$ tar xvf mininit.tar.gz
+$ cd mininit
+$ make
+```
   
 ## How to flash v1/v2 stock system (TFT screen only, not IPS)
 1. download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
