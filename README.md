@@ -1,7 +1,7 @@
 # FC3000
 ![Alt text](imgs/main.jpg)
   
-Specification
+## Specification
 |Component|Description                                  |
 |---------|---------------------------------------------|
 |CPU      |M900 XCM2010GP40 (Allwinner F1C100S)         |
