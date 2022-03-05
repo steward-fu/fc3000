@@ -40,7 +40,7 @@ $ export PATH=$PATH:/opt/miyoo/bin
 ### Build Kernel
 ```console
 $ cd
-$ https://github.com/steward-fu/fc3000/releases/download/source/kernel.tar.gz
+$ wget https://github.com/steward-fu/fc3000/releases/download/source/kernel.tar.gz
 $ tar xvf kernel.tar.gz
 $ cd kernel
 $ ARCH=arm CROSS_COMPILE=arm-linux- make suniv_defconfig
