@@ -16,6 +16,16 @@ Since there are many variants (with different screen panel), all of steps writte
 |Dimension|140mm x 68mm x 18mm                            |
 |Weight   |110g                                           |
   
+## How to build Linux OS for FC3000
+### prepare environment
+-  Debian 9 (x64)
+  
+### configure toolchain
+-  wget https://github.com/steward-fu/miyoo/releases/download/v1.0/toolchain.7z
+-  7za x toolchain.7z
+-  sudo mv miyoo /opt/
+-  export PATH=$PATH:/opt/miyoo/bin
+  
 ## How to flash v1/v2 stock system (TFT screen only, not IPS)
 1. download https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_v1_v2_flash.img.7z
 2. extract fc3000_v1_v2_flash.img and then write into microsd (SanDisk 8GB)
