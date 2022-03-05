@@ -20,7 +20,7 @@ Since there are many variants (with different screen panel), all of steps writte
 ### Prepare environment
 -  Install Debian 9 (x64)
   
-### Prepare microsd (contain prebuitl games and emulators)
+### Prepare microsd (include prebuilt games and emulators)
 ```console
 $ cd
 $ wget https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_tft_od_jutleys_no_roms.img.7z
