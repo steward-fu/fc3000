@@ -20,6 +20,12 @@ Since there are many variants (with different screen panel), all of steps writte
 ### prepare environment
 -  Debian 9 (x64)
   
+### prepare microsd
+-  cd
+-  wget https://github.com/steward-fu/fc3000/releases/download/v1.0/fc3000_tft_od_jutleys_no_roms.img.7z
+-  7za x fc3000_tft_od_jutleys_no_roms.img.7z
+-  sudo dd if=fc3000_tft_od_jutleys_no_roms.img of=/dev/sdX bs=1M
+  
 ### configure toolchain
 -  wget https://github.com/steward-fu/miyoo/releases/download/v1.0/toolchain.7z
 -  7za x toolchain.7z
