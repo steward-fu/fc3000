@@ -88,5 +88,5 @@ v1 stock system (user must use original v1 microsd to play game)
 v2 stock system (user must use original v2 microsd to play game)  
 ![Alt text](https://steward-fu.github.io/website/handheld/fc3000/v1v2_flash/11.jpg)
   
-### Forum(司徒开源): https://whycan.com/forumlist.php
+### Forum: https://whycan.com/t_6647.html
 ### Home: https://steward-fu.github.io/website/index.htm
