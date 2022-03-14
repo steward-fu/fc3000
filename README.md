@@ -5,7 +5,7 @@
 Since there are many variants (with different screen panel), all of steps written in here may not work on your FC3000. It means your FC3000 may become bricked ! FC3000 specs are almost same as miyoo handheld. So, I spend some time on porting kernel, which obtained source from miyoo repo in my github. Most of resources that include toolchain and buildroot are same as miyoo ones. Therefore, some steps written in here may be same as miyoo. If it is not clear in here, you can refer to miyoo repo. Now, all of porting tasks are complete, which can boot into GMenu2X desktop and play some porting games and emulators from open source. It is time to share to all of you, enjoy !
   
 If your FC3000 handheld is IPS screen, you can patch the kernel source using kernel_fc3000ips.7z file. Specially thanks kendling who found out the initial code of IPS screen and provided this patch file. And yes, this is expectation that your FC3000 handheld may be different and won't work when using this kernel source because there were many variants.
-
+  
 |Component|Description                                    |
 |---------|-----------------------------------------------|
 |CPU      |M900 XCM2010GP40 (Allwinner F1C100S)           |
